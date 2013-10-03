@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.reactivemongo" module="reactivemongo_2.10" revision="0.10.0-SNAPSHOT" status="integration" publication="20130930160611">
+	<info organisation="org.reactivemongo" module="reactivemongo_2.10" revision="0.10.0-SNAPSHOT" status="integration" publication="20131003150933">
 		<license name="Apache 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
 		<description homepage="http://reactivemongo.org">
 		ReactiveMongo

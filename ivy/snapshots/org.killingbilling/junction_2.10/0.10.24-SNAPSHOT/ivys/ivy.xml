@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="org.killingbilling" module="junction_2.10" revision="0.10.24-SNAPSHOT" status="integration" publication="20140113050758">
+	<info organisation="org.killingbilling" module="junction_2.10" revision="0.10.24-SNAPSHOT" status="integration" publication="20140115124649">
 		<description>
 		junction
 		</description>
